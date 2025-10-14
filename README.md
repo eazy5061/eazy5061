@@ -1,4 +1,8 @@
-## Hi there 👋
+## 👋 About me
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=telegram&message=@THL1280&color=27A7E7&logo=telegram)
+
+Hi, I'm **Tea Hong Liang** from Tampines, Singapore. I had over 10 years of working experience as Field Engineer.
+I'm currently looking to transit as a Data Analyst/Data Scienist/Data Engineer.
 
 <!--
 **eazy5061/eazy5061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
