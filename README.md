@@ -8,7 +8,7 @@ I had over 10 years of working experience as Field Engineer. Due to company rest
 <br>I had recently completed my <b>Diploma in Infocomm Technology (Data)</b> from <b>Lithan Academy</b> and is currently looking out for opportunity to transit as a Data Analyst/Data Scienist/Data Engineer.
 
 ## Capstone Projects
-Below links are the projects I did for data analyst courses:
+Below are the projects which I completed for data analyst courses:
 
 <br>**1. Capstone Project for Google Data Analyst Course**
 <br>The aim of this project is to analyse the World Happiness dataset which provides annual insights into global happiness rankings based on factors like GDP per capita, social support, life expectancy, freedom, generosity, and corruption perceptions. 
