@@ -16,7 +16,7 @@ Below are the projects which I completed for data analyst courses:
 <br><u>https://eazy5061.github.io/World-Happiness-Report
 
 <br>**2. Capstone Project for Associate Data Analyst Course – NTUC Learning Hub**
-The aim of this project is to identify the driving factors for HDB resale flats price and build predictive models. Explored the resale HDB flat price trends in Singapore's HDB market — analysing over 197,000 transactions from 2017 to 2024. The project is completed using Python programming which was taught during the course.
+<br>The aim of this project is to identify the driving factors for HDB resale flats price and build predictive models. Explored the resale HDB flat price trends in Singapore's HDB market — analysing over 197,000 transactions from 2017 to 2024. The project is completed using Python programming which was taught during the course.
 <br>• Identified top price drivers: flat size, storey level & proximity to key amenities (like MRT, hawkers & malls).
 <br>• Scraped & engineered geographic features using OneMap & geopy to derive spatial impact.
 <br>• Built predictive models using Linear Regression, Decision Tree & Random Forest
@@ -25,7 +25,9 @@ The aim of this project is to identify the driving factors for HDB resale flats 
 
 <br> - 📫 How to reach me: ![](https://img.shields.io/static/v1?label=Telegram&message=@THL1280&color=27A7E7&logo=telegram) [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hongliang-tea/)
 
-![eazy5061's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazy5061)
+<img src="https://github-readme-stats.vercel.app/api?username=eazy5061&show_icons=true">
+
+
 
 <!--**eazy5061/eazy5061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
