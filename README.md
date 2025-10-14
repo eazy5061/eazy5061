@@ -3,9 +3,9 @@
 
 Hi, My name is **Tea Hong Liang** and I am staying in a town at the east side of Singapore called [Tampines](https://en.wikipedia.org/wiki/Tampines).
 
-I had over 10 years of working experience as Field Engineer. Due to company restructuring, I was been layoff in July 2024.
-<br>After that I started upskilling myself by taking up Data Science and Data Analyst courses, and being to start to grow my passion in data and AI.
-<br>I had recently completed my <b>Diploma in Infocomm Technology (Data)</b> from <b>Lithan Academy</b> and is currently looking out for opportunity to transit as a Data Analyst/Data Scienist/Data Engineer.
+I had over 10 years of working experience as Field Engineer. Unfortunately, I was been layoff in July 2024 due to company manpower restructuring.
+After that I started upskilling myself by taking up Data Science and Data Analyst courses, and being to start to grow my passion in data and AI.
+I had recently completed my <b>Diploma in Infocomm Technology (Data)</b> from <b>Lithan Academy</b> and is currently looking out for opportunity to transit as a Data Analyst/Data Scienist/Data Engineer.
 
 ## Capstone Projects
 Below are the projects which I completed for data analyst courses:
@@ -20,6 +20,7 @@ Below are the projects which I completed for data analyst courses:
 <br>• Identified top price drivers: flat size, storey level & proximity to key amenities (like MRT, hawkers & malls).
 <br>• Scraped & engineered geographic features using OneMap & geopy to derive spatial impact.
 <br>• Built predictive models using Linear Regression, Decision Tree & Random Forest
+<br><u>https://sites.google.com/view/eazy506/capstone-project
 
 <br> ⚡ Fun fact: I am able to converse in Mandarin Chinese **(我会说中文)** and a few Chinese dialects. 
 
