@@ -1,7 +1,7 @@
 ## 👋 About me
 ![status](https://img.shields.io/badge/STATUS-UP-Green) ![](https://img.shields.io/static/v1?label=Telegram&message=@THL1280&color=27A7E7&logo=telegram) [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hongliang-tea/)
 
-Hi, My name is **Tea Hong Liang** and I am staying in a town at the east side of Singapore called [Tampines(https://en.wikipedia.org/wiki/Tampines)].
+Hi, My name is **Tea Hong Liang** and I am staying in a town at the east side of Singapore called [Tampines](https://en.wikipedia.org/wiki/Tampines).
 
 I had over 10 years of working experience as Field Engineer. Due to company restructuring, I was been layoff last year July.
 <br>After that I started taking up courses in Data Science and Data Analyst, and starting to grow my passion on data.
@@ -22,7 +22,7 @@ The aim of this project is to identify the driving factors for HDB resale flats 
 
 <br> ⚡ Fun fact: I am able to converse in Mandarin Chinese **(我会说中文)** and a few Chinese dialects. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazy5061)](https://github.com/anuraghazra/github-readme-stats)
+[![eazy5061's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazy5061)](https://github.com/eazy5061/github-readme-stats)
 
 
 
