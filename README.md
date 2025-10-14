@@ -25,7 +25,7 @@ The aim of this project is to identify the driving factors for HDB resale flats 
 
 <br> - 📫 How to reach me: ![](https://img.shields.io/static/v1?label=Telegram&message=@THL1280&color=27A7E7&logo=telegram) [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hongliang-tea/)
 
-[![eazy5061's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazy5061)](https://github.com/eazy5061/github-readme-stats)
+![eazy5061's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazy5061)
 
 <!--**eazy5061/eazy5061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
