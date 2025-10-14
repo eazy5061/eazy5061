@@ -5,7 +5,7 @@ Hi, My name is **Tea Hong Liang** and I am staying in a town at the east side of
 
 I had over 10 years of working experience as Field Engineer. Due to company restructuring, I was been layoff in July 2024.
 <br>After that I started upskilling myself by taking up Data Science and Data Analyst courses, and being to start to grow my passion in data and AI.
-<br>I had recently completed my <b>Diploma in Infocomm Technology (Data)</b> from <b>Lithan Academy</b> and is currently looking out for opportunties to transit as a Data Analyst/Data Scienist/Data Engineer.
+<br>I had recently completed my <b>Diploma in Infocomm Technology (Data)</b> from <b>Lithan Academy</b> and is currently looking out for opportunity to transit as a Data Analyst/Data Scienist/Data Engineer.
 
 ## Capstone Projects
 Below links are the projects I did for data analyst courses:
