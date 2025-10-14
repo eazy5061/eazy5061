@@ -1,11 +1,20 @@
 ## 👋 About me
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/static/v1?label=telegram&message=@THL1280&color=27A7E7&logo=telegram)
+![status](https://img.shields.io/badge/STATUS-UP-Green) ![](https://img.shields.io/static/v1?label=Telegram&message=@THL1280&color=27A7E7&logo=telegram) [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/hongliang-tea/)
 
-Hi, I'm **Tea Hong Liang** from Tampines, Singapore. I had over 10 years of working experience as Field Engineer.
-I'm currently looking to transit as a Data Analyst/Data Scienist/Data Engineer.
+Hi, I'm **Tea Hong Liang** and I stay in a town at the east side of Singapore called Tampines.
 
-<!--
-**eazy5061/eazy5061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I had over 10 years of working experience as Field Engineer. Due to company restructuring, I was been layoff last year July.
+<br>After that I started taking up courses in Data Science and Data Analyst, and starting to grow my passion on data.
+<br>I'm currently looking to transit as a Data Analyst/Data Scienist/Data Engineer.
+
+## Capstone Projects
+Below links are the projects I did for data analyst courses:
+<br>**https://eazy5061.github.io/World-Happiness-Report**
+
+
+
+
+<!--**eazy5061/eazy5061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
