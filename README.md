@@ -9,6 +9,7 @@ I had over 10 years of working experience as Field Engineer. Due to company rest
 
 ## Capstone Projects
 Below links are the projects I did for data analyst courses:
+
 <br>**1. Capstone Project for Google Data Analyst Course**
 <br>The aim of this project is to analyse the World Happiness dataset which provides annual insights into global happiness rankings based on factors like GDP per capita, social support, life expectancy, freedom, generosity, and corruption perceptions. 
 <br>Explore these factors to determine which influences happiness across different countries by using R programming which was taught in the Google Data Analyst course to analyse the dataset for year 2019.
