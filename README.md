@@ -9,7 +9,25 @@ I had over 10 years of working experience as Field Engineer. Due to company rest
 
 ## Capstone Projects
 Below links are the projects I did for data analyst courses:
-<br>**https://eazy5061.github.io/World-Happiness-Report**
+<br>**Capstone Project for Google Data Analyst Course**
+<br>The aim of this project is to analyse the World Happiness dataset which provides annual insights into global happiness rankings based on factors like GDP per capita, social support, life expectancy, freedom, generosity, and corruption perceptions. 
+<br>Explore these factors to determine which influences happiness across different countries by using R programming which was taught in the Google Data Analyst course to analyse the dataset for year 2019.
+<br><u>https://eazy5061.github.io/World-Happiness-Report
+
+<br>**Capstone Project for Associate Data Analyst Course – NTUC Learning Hub**
+The aim of this project is to identify the driving factors for HDB resale flats price and build predictive models. Explored the resale HDB flat price trends in Singapore's HDB market — analysing over 197,000 transactions from 2017 to 2024. The project is completed using Python programming which was taught during the course.
+<br>• Identified top price drivers: flat size, storey level & proximity to key amenities (like MRT, hawkers & malls).
+<br>• Scraped & engineered geographic features using OneMap & geopy to derive spatial impact.
+<br>• Built predictive models using Linear Regression, Decision Tree & Random Forest
+
+<br> ⚡ Fun fact: I am able to converse in Mandarin Chinese **(我会说中文)** and a few Chinese dialects. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eazy5061)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 
 
