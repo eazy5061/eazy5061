@@ -3,8 +3,8 @@
 
 Hi, My name is **Tea Hong Liang** and I am staying in a town at the east side of Singapore called [Tampines](https://en.wikipedia.org/wiki/Tampines).
 
-I had over 10 years of working experience as Field Engineer. Unfortunately, I was layoff by the company in July 2024 due to manpower restructuring.
-With a positive mindset, I started upskilling myself by taking up Data Science and Data Analyst courses and started to grow my passion in data and AI.
+I had over 10 years of working experience as Field Engineer, now transitioning to data analytics.
+Equipped with a positive mindset and willing to learn attitude, I took up Data Science and Data Analyst courses and from there I started to grow my passion into data and AI(Artificial Intelligence).
 I had recently completed my <b>Diploma in Infocomm Technology (Data)</b> from <b>Lithan Academy</b> and is currently looking out for opportunity to transit as a Data Analyst/Data Scienist/Data Engineer.
 
 ## Capstone Projects
