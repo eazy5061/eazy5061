@@ -10,19 +10,19 @@ I had recently completed my <b>Diploma in Infocomm Technology (Data)</b> from <b
 ## Capstone Projects
 Below are the projects which I completed for data analyst courses:
 
-<br>**1. Capstone Project using R Programming**
+<br>**1. R Programming Project**
 <br>The aim of this project is to analyse the World Happiness dataset which provides annual insights into global happiness rankings based on factors like GDP per capita, social support, life expectancy, freedom, generosity, and corruption perceptions. 
 <br>Explore these factors to determine which influences happiness across different countries by using R programming which was taught in the Google Data Analyst course to analyse the dataset for year 2019.
 <br><u>https://eazy5061.github.io/World-Happiness-Report
 
-<br>**2. Capstone Project using Python Programming**
+<br>**2. Python Programming Project**
 <br>The aim of this project is to identify the driving factors for HDB resale flats price and build predictive models. Explored the resale HDB flat price trends in Singapore's HDB market — analysing over 197,000 transactions from 2017 to 2024. The project is completed using Python programming which was taught during the course.
 <br>• Identified top price drivers: flat size, storey level & proximity to key amenities (like MRT, hawkers & malls).
 <br>• Scraped & engineered geographic features using OneMap & geopy to derive spatial impact.
 <br>• Built predictive models using Linear Regression, Decision Tree & Random Forest
 <br><u>https://sites.google.com/view/eazy506/capstone-project
 
-<br>**3. Capstone Project using Microsoft Power BI**
+<br>**3. Microsoft Power BI Project**
 <br>The aim of this project is to help an online superstore to analyze the sales of the products based on provided historical data, this analysis will help to plan the inventory and business processes accordingly. Also, to know the product’s and customer’s behavior.
 <br>The final report should contain the following two pages:
 <br><b>1. Sales Summary
