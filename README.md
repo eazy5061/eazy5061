@@ -26,7 +26,7 @@ Below are the projects which I completed for data analyst courses:
 <br>The aim of this project is to help an online superstore to analyze the sales of the products based on provided historical data, this analysis will help to plan the inventory and business processes accordingly. Also, to know the product’s and customer’s behavior.
 <br>The final report should contain the following two pages:
 <br><b>1. Sales Summary
-<br><b>2. Q&A Analysis
+<br>2. Q&A Analysis</b>
 <br><u>https://eazy5061.github.io/Global-SuperStore-Sales-Report/
 
 
