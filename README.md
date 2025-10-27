@@ -8,7 +8,7 @@ Equipped with a positive mindset and willing to learn attitude, I took up Data S
 I had recently completed my <b>Diploma in Infocomm Technology (Data)</b> from <b>Lithan Academy</b> and is currently looking out for opportunity to transit as a Data Analyst/Data Scienist/Data Engineer.
 
 ## Capstone Projects
-Below are the projects which I completed for the courses I took in Coursera and the Learning Academy:
+Below are the projects which I completed:
 
 <br>**1. Microsoft Power BI Project**
 <br>The aim of this project is to help an online superstore to analyze the sales of the products based on provided historical data, this analysis will help to plan the inventory and business processes accordingly. Also, to know the product’s and customer’s behavior.
